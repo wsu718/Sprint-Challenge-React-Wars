@@ -11,5 +11,14 @@
 }
 
 .bold {
-  font-weight: 600;
+font-weight: 600;
+}
+
+.wanted {
+  color: red;
+  font-weight: 800;
+}
+
+a {
+  margin: 5%;
 }
