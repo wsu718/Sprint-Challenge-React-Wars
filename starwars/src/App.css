@@ -6,3 +6,19 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+.card {
+  margin: 5%;
+}
+
+.bold {
+font-weight: 600;
+}
+
+.wanted {
+  color: red;
+  font-weight: 800;
+}
+
+a {
+  margin: 5%;
+}
